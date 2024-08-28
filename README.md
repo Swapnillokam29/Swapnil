@@ -1,5 +1,3 @@
-![Header](https://user-images.githubusercontent.com/your-profile-image.png) <!-- Replace with your image URL -->
-
 # 👋 Hello, I'm Swapnil!
 
 I am a **CAD Developer** with a strong background in software development and testing. I specialize in creating and enhancing CAD solutions, particularly for AutoCAD Mechanical, utilizing a variety of programming languages and tools.
